@@ -1,4 +1,4 @@
-<h2>👋 Olá! Seja bem-vindo(a) ao meu perfil no Github :) </h2>
+<h2>👋 Olá! Seja bem-vindo(a) ao meu perfil no GitHub :) </h2>
 
  <p>Me chamo Julia, tenho 21 anos e sou natural de Chapecó-SC. Atualmente moro em Floripa.
  Em 2020, me formei como técnica em informática pelo IFSC, que foi onde surgiu a minha paixão por tecnologia, e olha que aprendi a programar em Pascal haha.
