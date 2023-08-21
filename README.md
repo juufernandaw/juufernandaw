@@ -1,4 +1,4 @@
-<h2>👋 Olá! Seja bem-vindo ao meu perfil no Github :) </h2>
+<h2>👋 Olá! Seja bem-vindo (a) ao meu perfil no Github :) </h2>
 
 <img align="left" height="250" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/> Me chamo Julia, tenho 21 anos e sou natural de Chapecó-SC. Atualmente moro em Floripa.
 
