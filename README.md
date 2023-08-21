@@ -24,6 +24,6 @@
 
 <br><br>
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juufernandaw&show_icons=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juufernandaw&layout=compact"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juufernandaw&show_icons=true">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juufernandaw&layout=compact"/>
 </p>
