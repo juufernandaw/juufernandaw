@@ -13,13 +13,6 @@
 <p><a href="https://www.linkedin.com/in/julia-fernanda-werlang-5762581b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href = "mailto:ajulia.fernanda80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </p>
 
-<div style="display: inline_block">
-<h2>💻 Principais tecnologias</h2>
-  <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="postgresql" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
-  <img align="center" alt="sqlserver" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-  <img align="center" alt="mongoDB" height="40" width="40" src="https://www.svgrepo.com/show/354090/mongodb.svg">
-
 </div>
 
 <br><br>
