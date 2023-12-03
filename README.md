@@ -1,11 +1,11 @@
 <h2>👋 Olá! Seja bem-vindo(a) ao meu perfil no GitHub :) </h2>
 
- <p>Me chamo Julia, tenho 21 anos e sou natural de Chapecó-SC. Atualmente moro em Floripa.
+ <p>Me chamo Julia, tenho 22 anos e atualmente moro em Floripa.
  Em 2020, me formei como técnica em informática pelo IFSC, que foi onde surgiu a minha paixão por tecnologia, e olha que aprendi a programar em Pascal haha.
 
  Atualmente, sou graduanda de Sistemas de Informação pela UFSC e atuo como desenvolvedora de software back-end.
 
- Dedico meus estudos focando na área de desenvolvimento, e sou especialmente apaixonada pelo estudo de banco de dados.
+ Dedico meus estudos voltados para a área de desenvolvimento back-end e banco de dados.
 </p>
 
 
