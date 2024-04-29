@@ -3,9 +3,7 @@
  <p>Me chamo Julia, tenho 22 anos e atualmente moro em Floripa.
  Em 2020, me formei como técnica em informática pelo IFSC, que foi onde surgiu a minha paixão por tecnologia, e olha que aprendi a programar em Pascal haha.
 
- Atualmente, sou graduanda de Sistemas de Informação pela UFSC e atuo como desenvolvedora de software back-end.
-
- Dedico meus estudos voltados para a área de desenvolvimento back-end e banco de dados.
+ Atualmente, sou graduanda de Sistemas de Informação pela UFSC e atuo na área de cloud, focando em AWS.
 </p>
 
 
